@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ju7IaCd/tM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pyntamilselvan N\\OneDrive\\Documents\\ML Project\\Hardware monitoring\\Hardware monitoring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pyntamilselvan N\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Pyntamilselvan N\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
